@@ -6,6 +6,8 @@ To make this project work in Release, we had to add a COPY command to the Docker
 
 To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
 
+again?
+
 ## Compose sample application
 
 ### PHP application with Apache2
