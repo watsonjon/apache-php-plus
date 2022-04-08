@@ -7,6 +7,7 @@ To make this project work in Release, we had to add a COPY command to the Docker
 To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
 
 Looking for something? Maybe it is here...
+This should trigger a rebuild of an env, eh?
 
 ## Compose sample application
 
