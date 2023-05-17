@@ -1,0 +1,3 @@
+defaults:
+- key: FIRST_KEY
+  value: FIRST_VALUE
